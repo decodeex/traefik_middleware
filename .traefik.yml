@@ -1,6 +1,6 @@
 displayName: Decodeex traefik middleware plugin
 type: middleware
-import: github.com/decodeex/decodeex_traefik_middleware
+import: github.com/decodeex/traefik_middleware
 summary: decodeex traefik middleware plugin
 
 testData: {}
