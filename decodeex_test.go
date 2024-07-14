@@ -6,7 +6,7 @@ import (
 	"net/http/httptest"
 	"testing"
 
-	decodeex "github.com/decodeex/traefik-plugin"
+	decodeex "github.com/decodeex/traefik_middleware"
 )
 
 func assertHeader(t *testing.T, req *http.Request, key, expected string) {
